@@ -1,11 +1,3 @@
-
----
-author: Vinay Singh
-date: 2025-06-19
-title-block-banner: reactseq_cover.png
----
-
-
 # ReactSeq: Bridging Chemistry and AI with Reaction Description Language
 
 
@@ -127,17 +119,17 @@ ReactSeq breaks down any chemical reaction into fundamental operations:
 
 **Figure 3: Illustrate the interpretability benefits of ReactSeq**
 
-!["Figure 3"](Fig3.png)
+!["Figure 3"](ReactSeq_2506/Fig3.png)
 <br>
 
 **Figure 4: Highlights the impact of human-in-the-loop prompting**
 
-!["Figure 4"](Fig4.png)
+!["Figure 4"](ReactSeq_2506/Fig4.png)
 <br>
 
 **Figure 5: Showcases ReactSeq's strength in reaction representation learning.**
 
-!["Figure 5"](Fig5.png)
+!["Figure 5"](ReactSeq_2506/Fig5.png)
 <br>
 
 **Examples shown:**
