@@ -140,10 +140,10 @@ ReactSeq breaks down any chemical reaction into fundamental operations:
 ---
 ##  Takeaways
 
-Language-level abstraction via ReactSeq
-Prompt-compatible retrosynthesis 
-Embedding-based reaction representations 
-Discovery of unseen reactions 
+* Language-level abstraction via ReactSeq
+* Prompt-compatible retrosynthesis 
+* Embedding-based reaction representations 
+* Discovery of unseen reactions 
 
 ---
 ##  References and Resources
